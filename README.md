@@ -1,3 +1,6 @@
+React/Redux practice project via udemy (source below)
+
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
